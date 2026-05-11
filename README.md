@@ -6,6 +6,22 @@
   <img src="https://komarev.com/ghpvc/?username=Mrraaju&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+## 🌐 Connect with me:
+
+<p align="left">
+<a href="https://twitter.com/YOUR_USERNAME" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/rajukumarsharma07/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="https://portfolio-link.vercel.app/" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="40" width="40" />
+</a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
