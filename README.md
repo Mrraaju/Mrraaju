@@ -57,30 +57,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans" />
 </p>
 
-### Programming Languages
-- Java
-- Python
-- SQL
-- JavaScript
-- C++
-
-### Web Technologies
-- HTML
-- CSS
-- Bootstrap
-- React.js
-- PHP
-
-### Database
-- MySQL
-- MongoDB
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- NetBeans
-
 ---
 
 
