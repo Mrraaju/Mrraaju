@@ -21,9 +21,6 @@
 
 ## 💼 Technical Skills
 
-
-## 💼 Technical Skills
-
 ### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
