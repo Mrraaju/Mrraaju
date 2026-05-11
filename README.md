@@ -1,6 +1,7 @@
-# I'm Raju Kumar Sharma
+# Hi , I'm Raju Kumar Sharma
 
-### Software Developer | Java | SQL | Python
+## Aspiring Software Developer | Java | SQL | Python**
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Mrraaju&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
