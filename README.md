@@ -1,16 +1,98 @@
-## Hi there 👋
+# I'm Raju Kumar Sharma
 
-<!--
-**Mrraaju/Mrraaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Java | SQL | Python
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mrraaju&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Pursuing Master of Computer Applications (MCA)
+- 💻 Passionate Software Developer with interest in backend and web technologies
+- 🌱 Skilled in Java, SQL, Python, HTML, CSS, Bootstrap, and React.js
+- 🚀 Interested in Software Development, Problem Solving, and Real-World Projects
+- 📚 Continuously learning new technologies and improving development skills
+- 🤝 Strong communication, teamwork, and leadership abilities
+
+---
+
+## 💼 Technical Skills
+
+
+## 💼 Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
+</p>
+
+### Database Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,php" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans" />
+</p>
+
+### Programming Languages
+- Java
+- Python
+- SQL
+- JavaScript
+- C++
+
+### Web Technologies
+- HTML
+- CSS
+- Bootstrap
+- React.js
+- PHP
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- NetBeans
+
+---
+
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrraaju&show_icons=true&theme=default" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrraaju&layout=compact&theme=default" height="170" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- NCC ‘B’ Certificate Holder – 42 BN NCC
+- Strong understanding of software development fundamentals
+- Passionate about continuous learning and innovation
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Mrraaju
+- LinkedIn: https://linkedin.com/in/rajukumarsharma07/
+
+---
