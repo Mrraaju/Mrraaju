@@ -7,12 +7,6 @@
 </p>
 
 ## 🌐 Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" />
-</a>
-
 <a href="https://linkedin.com/in/rajukumarsharma07/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
