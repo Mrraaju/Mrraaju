@@ -1,6 +1,6 @@
 # Hi , I'm Raju Kumar Sharma
 
-## Aspiring Software Developer | Java | SQL | Python**
+## Aspiring Software Developer | Java | SQL | Python | MERN Stack | Data Science Enthusiast
 
 
 <p align="left">
@@ -11,7 +11,9 @@
 <a href="https://linkedin.com/in/rajukumarsharma07/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
-
+<a href="mailto:raza928ssm@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
+</a>
 <a href="https://portfolio-link.vercel.app/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="40" width="40" />
 </a>
@@ -21,9 +23,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing Master of Computer Applications (MCA)
 - 💻 Passionate Software Developer with interest in backend and web technologies
-- 🌱 Skilled in Java, SQL, Python, HTML, CSS, Bootstrap, and React.js
+      Skilled in Java, SQL, Python, HTML, CSS, Bootstrap, and React.js
 - 🚀 Interested in Software Development, Problem Solving, and Real-World Projects
 - 📚 Continuously learning new technologies and improving development skills
 - 🤝 Strong communication, teamwork, and leadership abilities
@@ -39,7 +40,7 @@
 
 ### Database Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
 </p>
 
 ### Web Technologies
