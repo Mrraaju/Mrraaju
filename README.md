@@ -12,6 +12,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 <a href="mailto:raza928ssm@gmail.com">
+<a herf= "https://mail.google.com/mail/u/0/#inbox?compose=new">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
 </a>
 <a href="https://portfolio-link.vercel.app/" target="blank">
