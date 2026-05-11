@@ -35,13 +35,12 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
 ### Database Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 ### Web Technologies
 <p>
